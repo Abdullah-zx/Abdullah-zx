@@ -1,18 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C5CE7&height=180&section=header&text=Muhammad%20Abdullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Front-End%20Developer%20%7C%20BSCS%20Student&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6C5CE7,100:A855F7&height=200&section=header&text=Muhammad%20Abdullah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Front-End%20Developer%20%7C%20BSCS%20Student&descAlignY=54&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Practical+AI+Projects;Python+%7C+Machine+Learning+%7C+Deep+Learning;Front-End+Development+%7C+React+%7C+JavaScript;Always+Learning%2C+Building+%26+Improving+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Practical+AI+Projects;Python+%7C+Machine+Learning+%7C+Deep+Learning;Front-End+Development+%7C+React+%7C+JavaScript;Always+Learning%2C+Building+%26+Improving+%F0%9F%9A%80"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Abdullah-zx?label=Followers&style=for-the-badge&logo=github&color=36BCF7"/>
-<img src="https://img.shields.io/badge/Repositories-6-6C5CE7?style=for-the-badge&logo=github"/>
-<a href="https://www.linkedin.com/in/muhammad-abdullah-340534336"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<img src="https://img.shields.io/github/followers/Abdullah-zx?label=Followers&style=for-the-badge&logo=github&color=36BCF7&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Repositories-6-6C5CE7?style=for-the-badge&logo=github&labelColor=1a1a2e"/>
+<a href="https://www.linkedin.com/in/muhammad-abdullah-340534336"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1a1a2e"/></a>
+
+<br><br>
+
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-aiml-journey">AI/ML Journey</a> •
+<a href="#-2026-goals">Goals</a> •
+<a href="#-lets-connect">Connect</a>
 
 </div>
 
----
+<br>
 
 ## 🧑‍💻 About Me
 
@@ -43,37 +52,26 @@ My journey started with **Web Development**, where I built responsive and intera
 </tr>
 </table>
 
----
+<div align="center">
+<img width="100%" height="3" src="https://img.shields.io/badge/-%20-6C5CE7?style=flat-square"/>
+</div>
 
 ## 🧠 Tech Stack
 
 <div align="center">
 
-**🤖 AI / ML**
-<br>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch"/>
-
-<br><br>
-
-**💻 Front-End**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
-
-<br><br>
-
-**🗄️ Backend & Database**
-<br>
-<img src="https://skillicons.dev/icons?i=flask,mysql"/>
-
-<br><br>
-
-**🔧 Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<table>
+<tr><td align="center" width="150"><b>🤖 AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch"/></td></tr>
+<tr><td align="center"><b>💻 Front-End</b></td><td><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/></td></tr>
+<tr><td align="center"><b>🗄️ Backend & DB</b></td><td><img src="https://skillicons.dev/icons?i=flask,mysql"/></td></tr>
+<tr><td align="center"><b>🔧 Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode"/></td></tr>
+</table>
 
 </div>
 
----
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6C5CE7&height=3"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -99,7 +97,7 @@ Brings key campus services into one place:
 
 <br><br>
 
-<a href="https://github.com/Abdullah-zx/CampusConnect"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abdullah-zx/CampusConnect"><img src="https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +118,7 @@ Responsive shoe store with:
 
 <br><br>
 
-<a href="https://github.com/Abdullah-zx/Soul-Shoes"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abdullah-zx/Soul-Shoes"><img src="https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -136,7 +134,7 @@ Interactive browser-based music player with play/pause and track switching.
 
 <br><br>
 
-<a href="https://github.com/Abdullah-zx/music-player"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abdullah-zx/music-player"><img src="https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -150,7 +148,7 @@ Responsive image gallery with grid layout and filtering.
 
 <br><br>
 
-<a href="https://github.com/Abdullah-zx/Image-Gallery-code-alpha"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abdullah-zx/Image-Gallery-code-alpha"><img src="https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -166,7 +164,7 @@ Functional web calculator practicing JS logic & event handling.
 
 <br><br>
 
-<a href="https://github.com/Abdullah-zx/calculator"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abdullah-zx/calculator"><img src="https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -180,31 +178,35 @@ Campus web app to report, browse, and manage lost & found items.
 
 <br><br>
 
-<a href="https://github.com/Abdullah-zx/Lost-Found-Campus-System"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Abdullah-zx/Lost-Found-Campus-System"><img src="https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6C5CE7&height=3"/>
+</div>
 
-## 🤖 AI / ML Journey
+## 🤖 AI/ML Journey
+
+<div align="center">
 
 ```text
    Python  →  Data Analysis  →  Machine Learning  →  Deep Learning  →  AI Applications
 ```
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-36BCF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Learning-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Building-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Developing-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-36BCF7?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-6C5CE7?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Python-Building-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/React-Developing-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e"/>
 
 </div>
 
----
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6C5CE7&height=3"/>
+</div>
 
 ## 🎯 2026 Goals
 
@@ -216,7 +218,9 @@ Campus web app to report, browse, and manage lost & found items.
 - [ ] Contribute to open source
 - [ ] Build a strong AI/ML portfolio
 
----
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6C5CE7&height=3"/>
+</div>
 
 ## 💡 Development Philosophy
 
@@ -228,19 +232,21 @@ Campus web app to report, browse, and manage lost & found items.
 
 </div>
 
----
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:6C5CE7&height=3"/>
+</div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Abdullah-zx"><img src="https://img.shields.io/badge/GitHub-Abdullah--zx-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Abdullah-zx"><img src="https://img.shields.io/badge/GitHub-Abdullah--zx-1a1a2e?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/muhammad-abdullah-340534336"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 
 <br><br>
 
 ### ⭐ Thanks for visiting my profile! Keep Learning. Keep Building. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:36BCF7&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:36BCF7&height=120&section=footer"/>
 
 </div>
