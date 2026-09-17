@@ -1,310 +1,321 @@
-# 👋 Hi, I'm Muhammad Abdullah
+<div align="center">
 
-### 🤖 AI/ML Enthusiast | 💻 Front-End Developer | 🎓 BSCS Student
+# 👋 Hey, I'm Muhammad Abdullah
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Exploring+AI%2C+Machine+Learning+%26+Deep+Learning;Building+Modern+Web+Applications;Python+%7C+JavaScript+%7C+React;Learning%2C+Building%2C+Improving+Every+Day" alt="Typing SVG" />
-</p>
+### 🤖 AI/ML Enthusiast • 💻 Front-End Developer • 🎓 BSCS Student
 
-<p align="center">
-  <a href="https://github.com/Abdullah-zx">
-    <img src="https://img.shields.io/github/followers/Abdullah-zx?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Abdullah-zx?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-340534336">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Practical+AI+Projects;Python+%7C+Machine+Learning+%7C+Deep+Learning;Front-End+Development+%7C+React+%7C+JavaScript;Always+Learning%2C+Building+%26+Improving+%F0%9F%9A%80" alt="Typing Animation"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abdullah-zx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Muhammad Abdullah**, a **BSCS student at the University of Layyah** with a growing focus on **Artificial Intelligence, Machine Learning, and Deep Learning**.
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-I enjoy turning ideas into practical projects, from interactive web applications to AI and machine learning experiments. My foundation in **Front-End Development** helps me build user-friendly interfaces while my current focus is on developing stronger skills in **Python, Machine Learning, and AI**.
+I'm **Muhammad Abdullah**, a **BSCS student at the University of Layyah** passionate about building technology and exploring the world of **Artificial Intelligence and Machine Learning**.
 
-* 🎓 Bachelor of Science in Computer Science
-* 🤖 Currently focusing on **AI, Machine Learning & Deep Learning**
-* 🐍 Building with **Python**
-* 💻 Experienced with **HTML, CSS, JavaScript & React**
-* 🗄️ Learning and working with **SQL & MySQL**
-* 🌱 Continuously improving through practical projects
-* 🚀 Interested in building real-world technology solutions
+My journey started with **Web Development**, where I built responsive and interactive websites. I'm now expanding my skills toward **AI, Machine Learning, and Deep Learning**, while continuing to use my web development experience to create practical applications.
+
+### 🚀 What I'm Currently Doing
+
+* 🤖 Learning **Artificial Intelligence & Machine Learning**
+* 🐍 Building projects with **Python**
+* 📊 Working with **NumPy, Pandas & Scikit-learn**
+* 🧠 Exploring **Deep Learning**
+* 💻 Building responsive web applications
+* ⚛️ Working with **React & JavaScript**
+* 🗄️ Learning **SQL & MySQL**
+* 🔧 Using **Git & GitHub** for project development
+
+<br clear="right"/>
 
 ---
 
-## 🧠 Current Focus
+# 🧠 My Tech Stack
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch" />
+</p>
+
+### 💻 Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,mysql" />
+</p>
+
+### 🛠️ Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🏫 CampusConnect
+
+### Smart University Management & Student Services Platform
+
+</div>
+
+**CampusConnect** is a university-focused platform designed to bring multiple student services together in one place.
+
+### ✨ Main Features
+
+📢 Smart Digital Notice Board
+📝 Complaint & Issue Management
+🔎 University Lost & Found
+👨‍💼 Student & Admin functionality
+🔐 Role-based access
+📊 Administrative dashboard
+🤖 AI-assisted notice summarization
+🔍 Search & filtering
+
+**Stack:** `HTML` `CSS` `Bootstrap` `JavaScript` `Python` `Flask` `MySQL` `AI`
+
+> 🚧 **Status:** In Development
+> 🎓 **Course:** Web Technologies
+> 💡 **Type:** University Web Application
+
+🔗 **Repository:** [CampusConnect](https://github.com/Abdullah-zx/CampusConnect)
+
+---
+
+<div align="center">
+
+## 👟 Soul Shoes
+
+### Modern E-Commerce Front-End
+
+</div>
+
+A responsive shoe store website created to practice modern UI development, responsive design, and JavaScript functionality.
+
+**✨ Features**
+
+🛍️ Product Cards
+🛒 Shopping Cart
+💰 Total Price Calculation
+❌ Remove Products
+💳 Checkout Interface
+📱 Responsive Navigation
+🎨 Modern User Interface
+
+**Stack:** `HTML5` `CSS3` `JavaScript`
+
+🔗 **Repository:** [Soul-Shoes](https://github.com/Abdullah-zx/Soul-Shoes)
+
+---
+
+<div align="center">
+
+## 🎵 Music Player
+
+</div>
+
+An interactive browser-based music player created to practice JavaScript functionality and front-end interaction.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** [Music Player](https://github.com/Abdullah-zx/music-player)
+
+---
+
+<div align="center">
+
+## 🖼️ Image Gallery
+
+</div>
+
+A responsive image gallery project focused on front-end layout, styling, and interactive JavaScript functionality.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** [Image Gallery](https://github.com/Abdullah-zx/Image-Gallery-code-alpha)
+
+---
+
+<div align="center">
+
+## 🧮 Calculator
+
+</div>
+
+A functional web calculator built to practice JavaScript logic, event handling, and interactive UI development.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** [Calculator](https://github.com/Abdullah-zx/calculator)
+
+---
+
+<div align="center">
+
+## 🔎 Lost & Found Campus System
+
+</div>
+
+A campus-focused web application designed to help users manage and explore lost and found items.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** [Lost & Found Campus System](https://github.com/Abdullah-zx/Lost-Found-Campus-System)
+
+---
+
+# 🤖 AI / ML Journey
+
+<div align="center">
+
+### From Code → Data → Intelligence 🚀
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Real-World AI Projects
-        ↓
-AI-Powered Applications
+        Python
+          ↓
+    Data Analysis
+          ↓
+   Machine Learning
+          ↓
+    Deep Learning
+          ↓
+   AI Applications
+          ↓
+  Real-World Projects
+```
+
+</div>
+
+### 📚 Areas I'm Exploring
+
+```text
+🐍 Python
+📊 Data Analysis
+🔢 NumPy
+🐼 Pandas
+📈 Data Visualization
+🤖 Machine Learning
+🧠 Deep Learning
+⚙️ Model Training
+📐 Model Evaluation
+🔬 AI Applications
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Statistics
 
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+<div align="center">
 
-### 💻 Front-End Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdullah-zx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"/>
 
-### 🐍 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-zx&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Abdullah-zx&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F76B36&center=true&vCenter=true&width=500&lines=Scroll+down+to+explore+my+work+%F0%9F%91%87" />
-</p>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-zx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
-### 🏫 [CampusConnect](https://github.com/Abdullah-zx/CampusConnect)
-**University Management & Student Services Platform**
-
-A web-based university platform that brings important campus services into one place.
-
-- 📢 Smart Digital Notice Board
-- 📝 Complaint & Issue Management
-- 🔎 Lost & Found System
-- 👨‍💼 Student & Admin functionality
-- 🔐 Role-based access
-- 🤖 AI-powered notice summarization concept
-- 📊 Administrative dashboard
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-<a href="https://github.com/Abdullah-zx/CampusConnect">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 👟 [Soul Shoes](https://github.com/Abdullah-zx/Soul-Shoes)
-**Modern Front-End E-commerce Website**
-
-A modern and responsive front-end e-commerce website for a shoe store.
-
-- 📱 Responsive design
-- 👟 Product cards
-- 🛒 Add to cart functionality
-- 💰 Cart total calculation
-- ❌ Remove products
-- 💳 Checkout interface
-- 📱 Mobile-friendly navigation
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<a href="https://github.com/Abdullah-zx/Soul-Shoes">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 [Music Player](https://github.com/Abdullah-zx/music-player)
-**Interactive Browser-Based Music Player**
-
-An interactive music player built with vanilla JavaScript, featuring play/pause, track switching, and a clean UI.
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<a href="https://github.com/Abdullah-zx/music-player">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ [Image Gallery](https://github.com/Abdullah-zx/Image-Gallery-code-alpha)
-**Responsive Image Gallery**
-
-A responsive image gallery built as part of front-end development practice, with filtering and a clean grid layout.
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<a href="https://github.com/Abdullah-zx/Image-Gallery-code-alpha">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧮 [Calculator](https://github.com/Abdullah-zx/calculator)
-**JavaScript Logic Practice**
-
-A functional web calculator built to practice JavaScript logic and interactive UI development.
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<a href="https://github.com/Abdullah-zx/calculator">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 [Lost & Found Campus System](https://github.com/Abdullah-zx/Lost-Found-Campus-System)
-**Campus Lost & Found Web App**
-
-A campus-focused web app that lets users report, browse, and manage lost and found items.
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<a href="https://github.com/Abdullah-zx/Lost-Found-Campus-System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 📊 GitHub Activity
+# 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-zx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-zx&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullah-zx&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-zx&theme=tokyo-night&hide_border=true" width="95%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-zx&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# 🎯 2026 Goals
 
 ```text
-Python
- ├── Data Analysis
- ├── NumPy
- ├── Pandas
- └── Data Visualization
-
-Machine Learning
- ├── Data Preprocessing
- ├── Feature Engineering
- ├── Model Training
- ├── Model Evaluation
- └── Scikit-learn
-
-Deep Learning
- ├── Neural Networks
- ├── TensorFlow
- └── PyTorch
+☐ Strengthen Python & Machine Learning
+☐ Build practical AI/ML projects
+☐ Improve Deep Learning skills
+☐ Work with real-world datasets
+☐ Build AI-powered applications
+☐ Improve Full-Stack Development
+☐ Contribute to Open Source
+☐ Build a strong AI/ML portfolio
 ```
 
 ---
 
-## 🎯 My Goal
+# 🌱 Currently Learning
 
-> To grow as an AI/ML professional by combining strong programming fundamentals, machine learning knowledge, and practical software development skills to build useful real-world applications.
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Building-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/React-Developing-blue?style=for-the-badge&logo=react"/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 💡 My Development Philosophy
 
-<p align="center">
-  <a href="https://github.com/Abdullah-zx">
-    <img src="https://img.shields.io/badge/GitHub-Abdullah--zx-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-340534336">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>💡 Learn • Build • Experiment • Improve</b>
-</p>
+### **Learn → Build → Break → Debug → Improve → Repeat 🔁**
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+> I believe the best way to learn technology is by building practical projects and solving real problems.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Abdullah-zx">
+<img src="https://img.shields.io/badge/GitHub-Abdullah--zx-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-abdullah-340534336">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Learning. Keep Building.
+
+</div>
